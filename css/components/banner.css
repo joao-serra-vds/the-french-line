@@ -1,5 +1,5 @@
 .banner {
-	background: linear-gradient(-255deg, rgba(0, 0, 0, 0.8) 0%, rgba(0, 0, 0, 0.2) 50%), url(../../images/line.jpeg);
+	background: linear-gradient(-200deg, rgba(0, 0, 0, 0.8) 0%, rgba(0, 0, 0, 0.2) 70%), url(../../images/line.jpeg);
 	color: white;
 	padding: 150px 0px;
 	background-size: cover;
@@ -7,12 +7,14 @@
 }
 
 .banner h1 {
-	font-size: 50px;
+	font-size: 70px;
+	font-family: 'Advent Pro', sans-serif;
 }
 
 .banner h2 {
 	font-size: 30px;
-	font-weight: lighter;
+	font-weight: normal;
 	opacity: 0.8;
 	margin-bottom: 40px;
+	font-family: 'Advent Pro', sans-serif;
 }
